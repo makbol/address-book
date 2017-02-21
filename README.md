@@ -4,8 +4,8 @@ Goals:
 * add
 * remove
 * sort by:
-** date added
-** name
+  * date added
+  * name
 * data persistance (between browser refresh)
 * contacts should be grouped
 * support for only latest features
